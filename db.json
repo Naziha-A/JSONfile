@@ -5,7 +5,11 @@
     "id": 1,
     "employeeId" : "111",
     "firstname" : "Naziha",
-    "lastname" : "asaf"
+    "lastname" : "asaf",
+    "phone" :{
+      "dialcode" : "91",
+      "number" : "9003780223"
  }
+  }    
  ]
 }
