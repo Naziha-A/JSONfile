@@ -1,15 +1,58 @@
 {
   "personalDetails":
   [
-  {
-    "id": 1,
-    "employeeId" : "111",
-    "firstname" : "Naziha",
-    "lastname" : "asaf",
-    "phone" :{
-      "dialcode" : "91",
-      "number" : "9003780223"
- }
-  }    
+   {
+  "id": "1",
+  "employeeId": "111",
+  "firstName": "Naziha",
+  "latName": "asaf",
+
+  "phone": {
+    "dialCode": "91",
+    "number": "9003780224"
+  },
+  
+  "emailId": "nazi@yopmail.com",
+  "age": "22",
+  "gender": "Female",
+  "martialStatus": "Single",
+  "nationality": "Indian",
+  "bloodGroup": "A1+",
+  "dateOfBirth": "27-09-1999",
+  "qualification": "B.E",
+  "permanentAddress1": {
+    "addressLineOne": "Rasool nager",
+    "addressLineTwo": "Parakai road",
+    "city": "nagercoil",
+    "state": "TamilNadu",
+    "country": "India",
+    "postalCode": "629002"
+  },
+  "presentAddress2": {
+    "addressLineOne": "new street",
+    "addressLineTwo": "edalakudy",
+    "city": "nagercoil",
+    "state": "TamilNadu",
+    "country": "India",
+    "postalCode": "629002"
+  },
+  "passportNumber": "xxxxxxxxxxx",
+  "panNumber": "xxxxxxxx",
+  "aadharNumber": "xxxxxxx",
+  "mediclaimId": "123",
+  "yearsOfExperience": "3",
+  "joinedDate": "25-10-2021",
+  "emergencyContact": {
+    "name": "asaf",
+    "contactNumber": "9994769905",
+    "relationship": "Father",
+    "emailId": "asaf@yopmail.com",
+    "address": "nagercoil"
+  },
+  "createdAt": "05-11-2021",
+  "updatedAt": "09-11-2021",
+  "createdBy": "87654345",
+  "updatedBy": "876545654"
+} 
  ]
 }
